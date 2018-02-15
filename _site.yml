@@ -1,16 +1,16 @@
-name: my-website
-output_dir: "."
+name: STAT-JET-ASU
+output_dir: '.'
 navbar:
-  title: TITLE
+  title: HOME
   left:
-  - text: Home
-    href: index.html
-  right:
+  - text: Reproducible Research
+    href: reproducibleresearch.html
   - text: About
     href: about.html
 output:
   html_document:
-    theme: cerulean
+    theme: spacelab
     highlight: textmate
-
+    lib_dir: site_libs
+    self_contained: no
 

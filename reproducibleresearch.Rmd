@@ -1,0 +1,43 @@
+---
+title: "Reproducible Research"
+---
+
+The *reproducibility crisis* in science refers to discovery and ongoing problem that a large percentage of published research across a variety of disciplines (most estimates are more than 50%) is not reproducible using the methods described in the research paper. Statisticians play a large role in scientific research are are well-poised to help alleviate the crisis in reproducible research. The American Statistical Association has taken a proactive role in developing guidelines designed to help scientists, statisitcians, and funding agencies move toward creating and supporting reproducible research across disciplines.
+
+#### ASA Definitions
+
+1. **Reproducibility:** A study is reproducible if you can take the original data and the
+computer code used to analyze the data and reproduce all of the numerical findings
+from the study. This may initially sound like a trivial task but experience has shown that
+it’s not always easy to achieve this seemingly minimal standard.
+
+2. **Replicability:** This is the act of repeating an entire study, independently of the original
+investigator without the use of original data (but generally using the same methods).
+
+#### ASA Principles
+
+1. Reproducibility is enhanced by following best current practices, including:
+
+     a. Ideally, exclusive use of publicly available data. However if the research domain does not allow for publicly available data for widely accepted reasons (e.g., medical data with high confidentiality concerns), the principles outlined in items (b) - (e) should still be followed
+
+     b. Use of version control for all (collaborative or individual) code development
+     c. Exclusive use of open-source software freely available to anyone in the world
+     d. End-to-end scripting of research, including data processing and cleaning, statistical analyses, visualizations, and report and/or manuscript generation, with the full workflow made available to others
+     e. Use of container/virtual machine tools to capture software versions, dependencies, and platform specifics
+     f. Publication of code in public repositories as with data
+     g. For projects that develop algorithms, implementing algorithms on standard computational platforms (e.g., R packages, Python packages, source code packages installable via standard methods, etc.)
+     
+2. Reproducibility shouldn't be thought of as a binary state—either reproducible or notreproducible—but as a continuum from hard=to-reproduce to easy-to-reproduce. The goal of any reproducibility effort should broadly be to move as many people as possible further towards easy-to-reproduce. Achieving this will require both technological components (i.e., to make the right thing easier than the wrong thing) and social (i.e., to motivate people to learn a better process even though it's harder in the short-term) components.
+
+3. In this “replication crisis” era, reproducibility is the only thing that can be effectively guaranteed in a published study. Whether any claimed findings are indeed true or false can only be confirmed via additional studies, but reproducibility can be confirmed immediately.
+
+**Sources:** 
+
+* [Forbes: How the Reproducibility Crisis in Academia is Affecting Scientific Research](https://www.forbes.com/sites/quora/2017/02/09/how-the-reproducibility-crisis-in-academia-is-affecting-scientific-research/#47fbfb153dad)
+* [FiveThirtyEight: Failure is Moving Science Forward](https://fivethirtyeight.com/features/failure-is-moving-science-forward/)
+* [ASA Advice for Funding Agencies on Reproducible Research?](http://community.amstat.org/blogs/amy-nussbaum/2016/10/12/asa-advice-for-funding-agencies-on-reproducible-research)
+* [ASA Develops Reproducible Research Recommendations](https://www.amstat.org/ASA/News/ASA-Develops-Reproducible-Research-Recommendations.aspx)
+* [ASA Recommendations to Funding Agencies for Supporting Reproducible
+Research](https://www.amstat.org/asa/files/pdfs/POL-ReproducibleResearchRecommendations.pdf)
+
+*This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*
