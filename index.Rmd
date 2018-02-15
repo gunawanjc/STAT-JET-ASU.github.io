@@ -8,5 +8,5 @@ Computational statistics, data science, and reproducible research are critical f
 
 While statistics and data science are not synonymous, statisticians play a vital role in the evolution and leadership of the discipline (see [ASA Statement on the Role of Statistics in Data Science](http://magazine.amstat.org/blog/2015/10/01/asa-statement-on-the-role-of-statistics-in-data-science/)).
 
-*This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*
+*This site was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*
 

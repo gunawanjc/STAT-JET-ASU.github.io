@@ -40,4 +40,3 @@ investigator without the use of original data (but generally using the same meth
 * [ASA Recommendations to Funding Agencies for Supporting Reproducible
 Research](https://www.amstat.org/asa/files/pdfs/POL-ReproducibleResearchRecommendations.pdf)
 
-*This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*

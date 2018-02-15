@@ -8,4 +8,3 @@ In my career I have had the opportunity to consult with scholars in many discipl
 
 In addition to STAT-JET-ASU, I maintain a [personal web page](https://jillthomley.github.io/index.html) and [GitHub repository](https://github.com/jillthomley) for other ongoing education and research projects.
 
-*This page was last updated on `r format(Sys.time(), "%A, %B %d, %Y at %X.")`*
