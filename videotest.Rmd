@@ -1,0 +1,11 @@
+---
+title: "Embedding Video Test"
+---
+
+<iframe src="https://www.youtube.com/embed/jbkSRLYSojo"></iframe><br><br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo"></iframe><br><br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

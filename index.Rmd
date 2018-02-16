@@ -2,9 +2,13 @@
 title: "STAT-JET-ASU"
 ---
 
-Computational statistics, data science, and reproducible research are critical for teaching and research at Appalachian State University. **STAT-JET-ASU** is a repository foreducational materials I use in my statistics and data science courses at [Appalachian State University](http://www.appstate.edu/). It also provides collaborative space for many of my students as they strive toward greater proficiency in statistical methods, data management, and the use of reproducible research methods. 
+Computational statistics, data science, and reproducible research are critical for teaching and research at Appalachian State University. **STAT-JET-ASU** is a repository for educational materials I use in my statistics and data science courses at [Appalachian State University](http://www.appstate.edu/). It also provides collaborative space for many of my students as they strive toward greater proficiency in statistical methods, data management, and the use of reproducible research methods. 
 
 ![](http://i.imgur.com/aoz1BJy.jpg)
+
+<figure align="middle">
+<img src="http://i.imgur.com/aoz1BJy.jpg" style="width:200px;">
+<figure>
 
 While statistics and data science are not synonymous, statisticians play a vital role in the evolution and leadership of the discipline (see [ASA Statement on the Role of Statistics in Data Science](http://magazine.amstat.org/blog/2015/10/01/asa-statement-on-the-role-of-statistics-in-data-science/)).
 
